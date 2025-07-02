@@ -4,10 +4,15 @@ a dedicated firewall that filters, logs, and protects systems on the network.
 
 # What you need: 
 -Raspberry Pi (any model with Ethernet + Wi-Fi or USB-to-Ethernet adapter)
+
 -microSD card (8GB+)
+
 -Raspberry Pi OS Lite
+
 -Two network interfaces:
+
 -eth0 → connects to your modem/router
+
 -wlan0 or eth1 → connects to your secured devices
 
 # Step 1: Update 
